@@ -1,0 +1,47 @@
+text,category
+My payment was deducted twice from my account,Billing
+I was charged twice for my subscription,Billing
+Please refund my duplicate payment,BILLING
+My invoice shows an incorrect amount,Billing
+I cannot download my monthly invoice,Billing
+My credit card payment failed,Billing
+I need a refund for my last transaction,Billing
+My subscription renewal charged me twice,Billing
+There is an unexpected charge on my bill,Billing
+Please update my billing information,Billing
+I was charged for a cancelled subscription,Billing
+My payment is still pending,Billing
+The invoice amount is incorrect,Billing
+I need help understanding my subscription fees,Billing
+I received a payment confirmation but no invoice,Billing
+My application crashes when I open it,Technical
+The website keeps showing an error message,technical
+I cannot upload files to the platform,Technical
+The dashboard is loading very slowly,Technical
+I am unable to connect to the server,Technical
+The mobile app freezes after login,Technical
+I receive a 500 server error,Technical
+The search function is not working,Technical
+My browser displays a blank screen,Technical
+The application crashes during file upload,Technical
+I cannot access the API endpoint,Technical
+The system keeps disconnecting,Technical
+I forgot my account password,Account
+I cannot log in to my account,Account
+Please help me reset my password,Account
+My account has been locked,ACCOUNT
+I want to change my registered email address,Account
+I cannot verify my account,Account
+My profile information is incorrect,Account
+I want to delete my account,Account
+Someone changed my account password,billing
+I am unable to access my user profile,Account
+My account verification link has expired,Account
+My payment was deducted twice from my account,Billing
+My application crashes when I open it,Technical
+I forgot my account password,Account
+,Billing
+I need help with my account,
+,Technical
+My payment is not processing,
+,Account

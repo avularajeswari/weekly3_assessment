@@ -1,0 +1,13 @@
+Question: Why not just ask ChatGPT?
+
+Answer:
+We can ask ChatGPT questions about a contract, but using ChatGPT alone may not be sufficient for an organization's business requirements.
+Accuracy: ChatGPT may generate incorrect information or misunderstand complex legal clauses.
+Source references: A customized RAG system retrieves relevant contract sections and provides supporting page references.
+Data privacy: Organizations need controlled access to confidential contracts and secure document storage.
+Business integration: A RAG system can connect with company databases, document management systems and internal applications.
+Human verification: Important legal answers can be sent to legal professionals for review.
+
+Therefore, ChatGPT is useful for general questions, but a customized RAG-based system provides better control, traceability and integration for business contract analysis.
+
+Conclusion: We are not replacing ChatGPT. We are building a reliable business application around an AI model to make contract information retrieval more accurate, secure and useful.

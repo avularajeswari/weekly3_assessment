@@ -1,0 +1,9 @@
+text,actual_category,predicted_category
+My application crashes when I open it,Technical,Technical
+The website keeps showing an error message,Technical,Technical
+My account has been locked,Account,Account
+My profile information is incorrect,Account,Billing
+I was charged for a cancelled subscription,Billing,Billing
+Please refund my duplicate payment,Billing,Billing
+I need a refund for my last transaction,Billing,Billing
+I am unable to connect to the server,Technical,Technical

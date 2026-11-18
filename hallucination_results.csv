@@ -1,0 +1,3 @@
+Test,Question,Response,Observation
+Without uncertainty instruction,"What year did the International Moonlight Programming Championship first take place, and who won it?",Illustrative example: The model might invent a year and a winner for this fictional event.,Potential hallucination
+With uncertainty instruction,"What year did the International Moonlight Programming Championship first take place, and who won it? Say I don't know if unsure.",Illustrative example: I don't know. I cannot verify that this event exists.,Acknowledges uncertainty

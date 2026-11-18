@@ -1,0 +1,39 @@
+text,category,cluster
+My payment was deducted twice from my account,Billing,1
+I was charged twice for my subscription,Billing,1
+Please refund my duplicate payment,Billing,0
+My invoice shows an incorrect amount,Billing,0
+I cannot download my monthly invoice,Billing,0
+My credit card payment failed,Billing,0
+I need a refund for my last transaction,Billing,0
+My subscription renewal charged me twice,Billing,1
+There is an unexpected charge on my bill,Billing,0
+Please update my billing information,Billing,0
+I was charged for a cancelled subscription,Billing,1
+My payment is still pending,Billing,0
+The invoice amount is incorrect,Billing,0
+I need help understanding my subscription fees,Billing,1
+I received a payment confirmation but no invoice,Billing,0
+My application crashes when I open it,Technical,0
+The website keeps showing an error message,Technical,0
+I cannot upload files to the platform,Technical,0
+The dashboard is loading very slowly,Technical,0
+I am unable to connect to the server,Technical,0
+The mobile app freezes after login,Technical,0
+I receive a 500 server error,Technical,0
+The search function is not working,Technical,0
+My browser displays a blank screen,Technical,0
+The application crashes during file upload,Technical,0
+I cannot access the API endpoint,Technical,0
+The system keeps disconnecting,Technical,0
+I forgot my account password,Account,2
+I cannot log in to my account,Account,2
+Please help me reset my password,Account,0
+My account has been locked,Account,2
+I want to change my registered email address,Account,0
+I cannot verify my account,Account,2
+My profile information is incorrect,Account,0
+I want to delete my account,Account,2
+Someone changed my account password,Billing,2
+I am unable to access my user profile,Account,0
+My account verification link has expired,Account,2

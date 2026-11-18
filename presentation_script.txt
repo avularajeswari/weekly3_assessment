@@ -1,0 +1,66 @@
+
+3-MINUTE PRESENTATION SCRIPT
+
+Good morning everyone.
+
+Today I am presenting my decision framework and
+technical proposal for five business problems.
+
+First, GST calculation on invoices.
+
+For this problem, I recommend Python-based rules and
+calculations instead of an LLM because tax calculations
+require accuracy and predictable results.
+
+Second, employee leave balance.
+
+I recommend an HRMS database with SQL and business rules.
+The official leave balance should come from company records,
+and HR should review exceptions.
+
+Third, resume ranking.
+
+NLP and language models can extract skills and compare
+candidate qualifications with job requirements.
+However, recruiters must make the final hiring decisions.
+AI should not automatically reject candidates.
+
+Fourth, contract question answering.
+
+I recommend Retrieval-Augmented Generation, also called RAG.
+It retrieves relevant contract passages and uses an LLM
+to generate answers with supporting page references.
+Legal professionals must review important answers.
+
+Fifth, sales forecasting.
+
+I recommend time-series forecasting using historical sales
+data. A sales manager should review the forecast before
+making important business decisions.
+
+Now I will explain my technical proposal for contract Q&A.
+
+The proposed system accepts a 60-page PDF contract.
+It extracts text, splits the document into chunks,
+creates embeddings and stores them in a vector database.
+
+When a user asks a question, the system retrieves
+the most relevant passages and sends them to an LLM.
+The LLM generates an answer with supporting citations.
+
+My proposed evaluation targets are:
+at least 90 percent retrieval recall at five,
+90 percent answer correctness,
+95 percent citation accuracy,
+and less than 5 percent unsupported answers.
+
+The estimated development time is approximately
+20 working days.
+
+The main trade-offs are API cost, document extraction
+quality, retrieval accuracy and the possibility of
+incorrect AI-generated answers.
+
+Finally, a legal expert must review important answers.
+
+Thank you.
